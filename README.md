@@ -66,13 +66,21 @@
 
 [Java并发-并发容器篇](http://javalover.cc/archives/java-concurrent-collections)
 
+[Java并发-并发工具篇](http://javalover.cc/archives/java-concurrent-util)
+
+[Java并发-显式锁](http://javalover.cc/archives/java-locks)
+
 # 3. SpringBoot系列
 
 [SpringBoot中的自动代码生成 - 基于Mybatis-Plus](http://javalover.cc/archives/spring-boot-auto-generate-code-base-mybatis-plus)
 
+[日期格式化时注解@DateTimeFormat无效的问题分析](http://javalover.cc/archives/spring-boot-datetimeformat-problem)
+
+[多表联合查询 - 基于注解SQL](http://javalover.cc/archives/spring-boot-more-table-join-sql)
+
 # 4. 工具系列
 
-
+[Chrome插件-图片批量下载](http://javalover.cc/archives/chrome-extension-image-patch-download)
 
 # 5. 资源系列
 
