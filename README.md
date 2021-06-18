@@ -70,6 +70,8 @@
 
 [Java并发-显式锁](http://javalover.cc/archives/java-locks)
 
+[Java并发-乐观锁](https://mp.weixin.qq.com/s/gbPx8GafgXyxMa27S6yyIA)
+
 # 3. SpringBoot系列
 
 [SpringBoot中的自动代码生成 - 基于Mybatis-Plus](http://javalover.cc/archives/spring-boot-auto-generate-code-base-mybatis-plus)
